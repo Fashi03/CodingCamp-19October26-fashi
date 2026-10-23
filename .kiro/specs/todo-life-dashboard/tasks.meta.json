@@ -1,0 +1,381 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create folder structure and `index.html`": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748715298
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748723695
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748827209
+      }
+    ],
+    "1.2 Create `css/style.css` and `js/app.js` stubs": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716295
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748727049
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748830862
+      }
+    ],
+    "2.1 Define CSS custom properties and reset": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716384
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748837838
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748865880
+      }
+    ],
+    "2.2 Implement responsive grid layout": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716494
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748870229
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748915596
+      }
+    ],
+    "2.3 Add component and utility styles": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716566
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749225698
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749289818
+      }
+    ],
+    "3.1 Write the Storage IIFE module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716630
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748873434
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748919558
+      }
+    ],
+    "4.1 Write the Utils IIFE module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716696
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749229116
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749293399
+      }
+    ],
+    "5.1 Write the Theme IIFE module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716760
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749300941
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749344433
+      }
+    ],
+    "6.1 Write the Greeting IIFE module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716892
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749357941
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749423708
+      }
+    ],
+    "7.1 Write the Timer IIFE module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716943
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749361380
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749428177
+      }
+    ],
+    "8.1 Write the Todo IIFE module — data layer and rendering": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748716998
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749439007
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749824232
+      }
+    ],
+    "8.2 Implement add-task logic": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717073
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749839814
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750235815
+      }
+    ],
+    "8.4 Implement toggle-complete and delete logic": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717163
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750250954
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750293065
+      }
+    ],
+    "8.6 Implement edit-task logic": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717232
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750304653
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750359217
+      }
+    ],
+    "9.1 Write the Links IIFE module — data layer and rendering": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717294
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749442832
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749828236
+      }
+    ],
+    "9.2 Implement add-link logic": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717354
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749843587
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750239543
+      }
+    ],
+    "10.1 Implement `App.init()` and bootstrap all modules": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717414
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750672646
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750740432
+      }
+    ],
+    "10.2 Implement error message lifecycle enforcement across all widgets": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748717474
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750751436
+      },
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750849629
+      }
+    ],
+    "1. Scaffold project structure and HTML skeleton": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748830993
+      }
+    ],
+    "3. Implement `App.Storage` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792748919733
+      }
+    ],
+    "2. Implement CSS architecture": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749289966
+      }
+    ],
+    "4. Implement `App.Utils` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749293515
+      }
+    ],
+    "5. Implement `App.Theme` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749344585
+      }
+    ],
+    "6. Implement `App.Greeting` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749423888
+      }
+    ],
+    "7. Implement `App.Timer` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792749428289
+      }
+    ],
+    "9. Implement `App.Links` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750239691
+      }
+    ],
+    "8. Implement `App.Todo` module": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750359366
+      }
+    ],
+    "10. Wire `App.init`, enforce error message lifecycle, and finalize integration": [
+      {
+        "executionId": "b0882eb3-516e-4486-883e-7f95c9cd17de",
+        "chatSessionId": "sess_ecb18d7c-01f0-414c-bb29-562346ea68f9",
+        "timestamp": 1792750849786
+      }
+    ]
+  }
+}
